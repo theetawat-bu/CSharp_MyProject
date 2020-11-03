@@ -1,0 +1,15 @@
+D:\CSharp\Project\Music Player App\bin\Debug\Music Player App.exe.config
+D:\CSharp\Project\Music Player App\bin\Debug\Music Player App.exe
+D:\CSharp\Project\Music Player App\bin\Debug\Music Player App.pdb
+D:\CSharp\Project\Music Player App\obj\Debug\Music Player App.csprojAssemblyReference.cache
+D:\CSharp\Project\Music Player App\obj\Debug\Music_Player_App.MusicPlayer.resources
+D:\CSharp\Project\Music Player App\obj\Debug\Music_Player_App.Properties.Resources.resources
+D:\CSharp\Project\Music Player App\obj\Debug\Music Player App.csproj.GenerateResource.cache
+D:\CSharp\Project\Music Player App\obj\Debug\Music Player App.csproj.CoreCompileInputs.cache
+D:\CSharp\Project\Music Player App\obj\Debug\Music Player App.exe
+D:\CSharp\Project\Music Player App\obj\Debug\Music Player App.pdb
+D:\CSharp\Project\Music Player App\bin\Debug\Interop.WMPLib.dll
+D:\CSharp\Project\Music Player App\bin\Debug\AxInterop.WMPLib.dll
+D:\CSharp\Project\Music Player App\obj\Debug\Interop.WMPLib.dll
+D:\CSharp\Project\Music Player App\obj\Debug\AxInterop.WMPLib.dll
+D:\CSharp\Project\Music Player App\obj\Debug\Music Player App.csproj.ResolveComReference.cache
