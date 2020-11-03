@@ -38,6 +38,9 @@
             this.Random2 = new System.Windows.Forms.Button();
             this.errorProvider1 = new System.Windows.Forms.ErrorProvider(this.components);
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -62,28 +65,28 @@
             // 
             // First_Text_Prime
             // 
-            this.First_Text_Prime.Location = new System.Drawing.Point(50, 23);
+            this.First_Text_Prime.Location = new System.Drawing.Point(100, 23);
             this.First_Text_Prime.Name = "First_Text_Prime";
             this.First_Text_Prime.Size = new System.Drawing.Size(100, 20);
             this.First_Text_Prime.TabIndex = 2;
             // 
             // Second_Text_Prime
             // 
-            this.Second_Text_Prime.Location = new System.Drawing.Point(50, 60);
+            this.Second_Text_Prime.Location = new System.Drawing.Point(100, 60);
             this.Second_Text_Prime.Name = "Second_Text_Prime";
             this.Second_Text_Prime.Size = new System.Drawing.Size(100, 20);
             this.Second_Text_Prime.TabIndex = 3;
             // 
             // charecter
             // 
-            this.charecter.Location = new System.Drawing.Point(50, 96);
+            this.charecter.Location = new System.Drawing.Point(100, 96);
             this.charecter.Name = "charecter";
             this.charecter.Size = new System.Drawing.Size(100, 20);
             this.charecter.TabIndex = 4;
             // 
             // Random1
             // 
-            this.Random1.Location = new System.Drawing.Point(181, 23);
+            this.Random1.Location = new System.Drawing.Point(216, 21);
             this.Random1.Name = "Random1";
             this.Random1.Size = new System.Drawing.Size(75, 23);
             this.Random1.TabIndex = 5;
@@ -93,7 +96,7 @@
             // 
             // Random2
             // 
-            this.Random2.Location = new System.Drawing.Point(181, 58);
+            this.Random2.Location = new System.Drawing.Point(216, 56);
             this.Random2.Name = "Random2";
             this.Random2.Size = new System.Drawing.Size(75, 23);
             this.Random2.TabIndex = 6;
@@ -110,11 +113,41 @@
             // 
             this.backgroundWorker1.DoWork += new System.ComponentModel.DoWorkEventHandler(this.backgroundWorker1_DoWork_1);
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(5, 26);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(90, 13);
+            this.label1.TabIndex = 7;
+            this.label1.Text = "1st_PrimeNumber";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(4, 64);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(91, 13);
+            this.label2.TabIndex = 8;
+            this.label2.Text = "2rd_PrimeNumber";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(42, 103);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(53, 13);
+            this.label3.TabIndex = 9;
+            this.label3.Text = "Charecter";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(462, 361);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.Random2);
             this.Controls.Add(this.Random1);
             this.Controls.Add(this.charecter);
@@ -145,6 +178,9 @@
         private System.Windows.Forms.Button Random2;
         private System.Windows.Forms.ErrorProvider errorProvider1;
         private System.ComponentModel.BackgroundWorker backgroundWorker1;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label2;
     }
 }
 

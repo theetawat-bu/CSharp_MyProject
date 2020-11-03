@@ -15,11 +15,21 @@ namespace RSA
        static List<int> set_prime = new List<int>();
         public static bool check_validate(Form1 f)
         {
-
-            if (f.First_Text_Prime.Text.Length == 0 || f.Second_Text_Prime.Text.Length == 0 || f.charecter.Text.Length == 0)
+            int checkInt;
+            if (!int.TryParse(f.First_Text_Prime.Text.ToString().Trim(), out checkInt) ||
+               !int.TryParse(f.Second_Text_Prime.Text.ToString().Trim(), out checkInt) ||
+               !int.TryParse(f.charecter.Text.ToString().Trim(), out checkInt))
             {
-                f.richTextBox_showResult.Text = "โปรดกรอกเป็นตัวเลข";
+                f.richTextBox_showResult.Text = "โปรดกรอกเป็นตัวเลข หรือกรอกให้ครบ";
                 return false;
+            }
+            else
+            {
+                if (f.First_Text_Prime.Text.Length == 0 || f.Second_Text_Prime.Text.Length == 0 || f.charecter.Text.Length == 0)
+                {
+                    f.richTextBox_showResult.Text = "โปรดกรอกเป็นตัวเลข หรือกรอกให้ครบ";
+                    return false;
+                }
             }
             return true;
         }
