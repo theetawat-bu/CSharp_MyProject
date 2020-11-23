@@ -1,0 +1,10 @@
+D:\Programing\Csharp\CSharp_MyProject\CPE-311\Timer\bin\Debug\Timer.exe.config
+D:\Programing\Csharp\CSharp_MyProject\CPE-311\Timer\bin\Debug\Timer.exe
+D:\Programing\Csharp\CSharp_MyProject\CPE-311\Timer\bin\Debug\Timer.pdb
+D:\Programing\Csharp\CSharp_MyProject\CPE-311\Timer\obj\Debug\Timer.csprojAssemblyReference.cache
+D:\Programing\Csharp\CSharp_MyProject\CPE-311\Timer\obj\Debug\Timer.Form1.resources
+D:\Programing\Csharp\CSharp_MyProject\CPE-311\Timer\obj\Debug\Timer.Properties.Resources.resources
+D:\Programing\Csharp\CSharp_MyProject\CPE-311\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+D:\Programing\Csharp\CSharp_MyProject\CPE-311\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+D:\Programing\Csharp\CSharp_MyProject\CPE-311\Timer\obj\Debug\Timer.exe
+D:\Programing\Csharp\CSharp_MyProject\CPE-311\Timer\obj\Debug\Timer.pdb

@@ -1,0 +1,9 @@
+D:\Programing\Csharp\CSharp_MyProject\CPE-311\CPE-311\bin\Debug\CPE-311.exe.config
+D:\Programing\Csharp\CSharp_MyProject\CPE-311\CPE-311\bin\Debug\CPE-311.exe
+D:\Programing\Csharp\CSharp_MyProject\CPE-311\CPE-311\bin\Debug\CPE-311.pdb
+D:\Programing\Csharp\CSharp_MyProject\CPE-311\CPE-311\obj\Debug\CPE-311.csprojAssemblyReference.cache
+D:\Programing\Csharp\CSharp_MyProject\CPE-311\CPE-311\obj\Debug\CPE_311.Properties.Resources.resources
+D:\Programing\Csharp\CSharp_MyProject\CPE-311\CPE-311\obj\Debug\CPE-311.csproj.GenerateResource.cache
+D:\Programing\Csharp\CSharp_MyProject\CPE-311\CPE-311\obj\Debug\CPE-311.csproj.CoreCompileInputs.cache
+D:\Programing\Csharp\CSharp_MyProject\CPE-311\CPE-311\obj\Debug\CPE-311.exe
+D:\Programing\Csharp\CSharp_MyProject\CPE-311\CPE-311\obj\Debug\CPE-311.pdb
